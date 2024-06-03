@@ -2,9 +2,33 @@
     text-align: left
 }
 
+.mesliens {
+    background-color: rgb(226, 64, 43);
+}
+
+#monindex {
+    background-color: rgb(43, 226, 217);
+}
+
+#montableau {
+    background-color: rgb(73, 226, 43);
+}
+
+#mescontact {
+    background-color: rgb(223, 12, 159);
+}
+
+#inp-nom {
+
+    background-color: rgb(75, 7, 54);
+}
 
 h1 {
     text-align: center
+}
+
+label {
+    background-color: rgb(250, 217, 68);
 }
 
 
